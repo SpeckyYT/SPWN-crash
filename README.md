@@ -2,6 +2,12 @@
 
 Make Geometry Dash crash by running this function.
 
+## Disclamers
+
+- You're responsable for what you do.
+- Don't blame me for finding this.
+- This got discovered by myself in ~2017, so don't act as if someone else was the discoverer.
+
 ## Usage
 
 1) Copy `crash.spwn` into your directory
@@ -22,9 +28,3 @@ It initially consisted out of 3 triggers (2 spawn and 1 stop), but I realised th
 ## How does it work?
 
 By activating a stop trigger using a spawn trigger and the stop trigger stops the spawn trigger, the game crashes, but only if the delay on the spawn trigger is greater than 0.
-
-## Disclamers
-
-- You're responsable for what you do.
-- Don't blame me for finding this.
-- This got discovered by myself in ~2017, so don't act as if someone else was the discoverer.
