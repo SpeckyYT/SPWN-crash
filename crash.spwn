@@ -1,0 +1,6 @@
+crash = !{
+    wait(0.01)
+    crash.start_group.stop()
+}
+
+return crash
