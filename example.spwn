@@ -1,0 +1,5 @@
+crash = import './src'
+
+wait(5)
+
+crash! // will crash your game after 5 seconds

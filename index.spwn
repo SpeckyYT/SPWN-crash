@@ -1,7 +1,0 @@
-crash = import 'crash.spwn'
-
-// on touch
-touch().on_triggered(crash)
-
-// on death
-death().on_triggered(crash)
